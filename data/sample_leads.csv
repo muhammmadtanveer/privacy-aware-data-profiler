@@ -1,0 +1,5 @@
+lead_id,email,phone,campaign,consent
+L-001,amina@example.test,+1 555 010 1000,retargeting,true
+L-002,rahim@example.test,+1 555 010 1001,prospecting,true
+L-003,,+92 300 1234567,webinar,false
+L-003,,+92 300 1234567,webinar,false
